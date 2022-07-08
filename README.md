@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @288282828
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+288282828/288282828 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+Hi, I'm @90683268
+I'm interested in hacking
+I'm currently learning computer science 
